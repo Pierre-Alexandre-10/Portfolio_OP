@@ -6,7 +6,7 @@ function ErrorPage() {
             <div className="error__container">
                 <p className="error__container__number">404</p>
                 <p className="error__container__txt">
-                    Oups! La page que vus demandez n'existe pas.
+                    Oups! La page que vous demandez n'existe pas.
                 </p>
                 <Link to="/" className="error__container__link">
                     Retourner sur la page d'accueil
