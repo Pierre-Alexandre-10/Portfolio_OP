@@ -1,0 +1,20 @@
+.header__nav a {
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 500;
+  color: black;
+}
+.header__nav .header__nav__about {
+  margin-left: 57px;
+}
+.header__nav .active {
+  border-bottom: 2px solid black;
+}
+@media all and (max-width: 768px) {
+  .header__nav a {
+    font-size: 12px;
+  }
+  .header__nav .header__nav__about {
+    margin-left: 26px;
+  }
+}/*# sourceMappingURL=nav.css.map */

@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+body {
+  font-family: "Geist Mono", sans-serif;
+  margin: 0;
+  box-sizing: border-box;
+  min-width: 314px;
+}
+
+.header__main {
+  padding: 45px 100px 0 100px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+@media all and (max-width: 768px) {
+  .header__main {
+    padding: 20px 20px 0 20px;
+  }
+}/*# sourceMappingURL=base.css.map */

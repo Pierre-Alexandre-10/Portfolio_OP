@@ -1,0 +1,120 @@
+[
+    {
+        "id": "1",
+        "title": "Booki",
+        "cover": "/images/Booki.jpg",
+        "pictures": [
+            "/images/Booki2.png",
+            "/images/Booki3.png"
+        ],
+        "description": "Intégrer une interface responsive à partir d'une maquette",
+        "objective": [
+            "Implémenter une interface responsive avec HTML et CSS",
+            "Intégrer du contenu conformément à une maquette avec HTML et CSS",
+            "Versionner son projet avec Git et Github",
+            "Installer un environnement de développement front-end"            
+        ],
+        "tags": ["FrontEnd", "HTML", "CSS", "Responsive", "GitHub"],
+        "github": "https://github.com/Pierre-Alexandre-10/BookiOpenClassrooms",
+        "page": "https://pierre-alexandre-10.github.io/BookiOpenClassrooms/"
+    },
+
+    {
+        "id": "2",
+        "title": "Sophie Bluel",
+        "cover": "/images/Sophie_Bluel.png",
+        "pictures": [
+            "/images/Sophie_Bluel2.png",
+            "/images/Sophie_Bluel3.png"
+        ],
+        "description": "Conception d'un site portfolio d'architecte dynamique en utilisant JavaScript et une API. Il doit être possible d'ajouter de nouveaux projet via une modal et tout cela de manière dynamique.",
+        "objective": [
+            "Gérer les événements utilisateurs avec JavaScript",
+            "Manipuler les éléments du DOM avec JavaScript",
+            "Récupérer les données utilisateurs dans le JavaScript via des formulaires"          
+        ],
+        "tags": ["FrontEnd", "HTML", "CSS", "JavaScript", "API"],
+        "github": "https://github.com/Pierre-Alexandre-10/Projet_SophieBluel_JS",
+        "page": "https://pierre-alexandre-10.github.io/Projet_SophieBluel_JS/"
+    }, 
+
+    {
+        "id": "3",
+        "title": "Qwenta",
+        "cover": "/images/Qwenta.jpg",
+        "pictures": [
+            "/images/Qwenta2.png",
+            "/images/Qwenta3.png"
+        ],
+        "description": "Planification du développement d'un site web, en appliquant les technologies les plus pertinantes pour avoir un résultats optimal selon la demande du client",
+        "objective": [
+            "Découper une fonctionnalités en tâches pour préparer le développement",
+            "Mettre en place une méthode de veille technologique",
+            "Présenter la solution technique",
+            "Rédiger les spécifications techniques d'un projet web à partir de besoins fonctionnels",
+            "Suivre le déroulement du projet grâce à un outil de gestion de projet"      
+        ],
+        "tags": ["User Stories", "Veille technologique", "Notion", "Kanban", "Spécifications techniques"],
+        "github": "https://github.com/Pierre-Alexandre-10/Qwenta"
+    },
+
+    {
+        "id": "4",
+        "title": "Ninna Carducci",
+        "cover": "/images/Nina_Carducci.jpg",
+        "pictures": [
+            "/images/Nina_Carducci2.png",
+            "/images/Nina_Carducci3.png"
+        ],
+        "description": "Débbugage et optimisation du site web d'une photographe. Dans ce projet la structure du site a été revu ainsi que l'optimisation des images, du SEO du référencement local. La performance est au coeur de ce projet",
+        "objective": [
+            "Découper une fonctionnalités en tâches pour préparer le développement",
+            "Mettre en place une méthode de veille technologique",
+            "Présenter la solution technique",
+            "Rédiger les spécifications techniques d'un projet web à partir de besoins fonctionnels",
+            "Suivre le déroulement du projet grâce à un outil de gestion de projet"      
+        ],
+        "tags": ["HTML","CSS" ,"SEO", "Google Rich Snippets", "Wave", "LightHouse", "GitHub"],
+        "github": "https://github.com/Pierre-Alexandre-10/Projet_SophieBluel_JS",
+        "page": "https://pierre-alexandre-10.github.io/Projet_SophieBluel_JS/"
+    },
+
+    {
+        "id": "5",
+        "title": "Kasa",
+        "cover": "/images/Kasa.jpg",
+        "pictures": [
+            "/images/Kasa2.png",
+            "/images/Kasa3.png"
+        ],
+        "description": "Dans ce projet, j'ai implémenter le front-end d’une application en utilisant React et React Router pour créer une expérience utilisateur moderne et réactive.",
+        "objective": [
+            "Initialiser une application avec Create React App",
+            "Configurer la navigation entre les pages de l'application avec React Router",
+            "Développer des éléments de l'interface d'un site web grâce à des composants React",
+            "Mettre en œuvre des animations CSS",
+            "Développer une interface web avec Sass"      
+        ],
+        "tags": ["JSX", "SASS", "React" ,"React Router", "GitHub"],
+        "github": "https://github.com/Pierre-Alexandre-10/Kasa",
+        "page": "https://pierre-alexandre-10.github.io/Kasa/"
+    },
+
+    {
+        "id": "6",
+        "title": "Mon vieux grimoire",
+        "cover": "/images/Mon_vieux_grimoire.jpg",
+        "pictures": [
+            "/images/mvg1.png",
+            "/images/mvg3.png"
+        ],
+        "description": "Dans ce projet mon rôle a été de créer un serveur avec Express et de le connecter à une base de données MongoDB. Cela implique la mise en place de la structure du serveur et la gestion de la communication entre le serveur et la base de données. Pour la gestion des livres et leur notation un sytème CRUD a été mis en place ainsi qu'un sytème d'authentification, et de téléchargement et optimisation d'image",
+        "objective": [
+            "Implémenter un modèle logique de données conformément à la réglementation",
+            "Mettre en œuvre des opérations CRUD de manière sécurisée",
+            "Stocker des données de manière sécurisée"  
+        ],
+        "tags": ["Node.JS", "MongoDB", "Mongoose" ,"Express", "CRUD", "MVC", "GitHub"],
+        "github": "https://github.com/Pierre-Alexandre-10/Mon-Vieux-Grimoire"
+    }
+]

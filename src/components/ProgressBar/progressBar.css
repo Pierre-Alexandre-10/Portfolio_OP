@@ -1,0 +1,74 @@
+.progressBar__all {
+  margin-top: 50px;
+  padding-bottom: 50px;
+  border-bottom: 2px solid #ff6060;
+}
+
+.progressBar {
+  margin: 5px 0;
+  margin: 0;
+}
+
+.progressBar__block {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.progressBar__title {
+  width: 20%;
+  font-size: 40px;
+  margin-left: 40px;
+}
+
+.progressBar__txt {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.progressBar__bar {
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  height: 20px;
+  width: 100%;
+  margin-bottom: 5px;
+  overflow: hidden;
+}
+
+.progressBar__fill {
+  height: 100%;
+  border-radius: 10px;
+  transition: width 0.3s ease; /* Animation de la largeur */
+}
+
+.progressBar__value {
+  font-size: 14px;
+  text-align: right;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+.progressBar__left {
+  width: 45%;
+}
+
+.progressBar__right {
+  width: 45%;
+}
+
+@media all and (max-width: 768px) {
+  .progressBar__block {
+    flex-direction: column;
+  }
+  .progressBar__left {
+    width: 100%;
+  }
+  .progressBar__right {
+    width: 100%;
+  }
+  .progressBar__title {
+    font-size: 30px;
+    margin-left: 0;
+  }
+}/*# sourceMappingURL=progressBar.css.map */

@@ -1,0 +1,68 @@
+.carrousel {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  height: 400px;
+  margin-top: 50px;
+  border-radius: 25px;
+  box-shadow: 4px 4px 4px rgba(72, 72, 72, 0.1);
+}
+.carrousel__container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.carrousel__items {
+  display: flex;
+  width: 100%;
+}
+.carrousel__items__content {
+  flex: 1 0 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.carrousel__items__content__counter {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 0 5px 0 5px;
+  border-radius: 15px 15px 0 0;
+}
+.carrousel__items__content img {
+  width: 100%;
+  height: 400px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.carrousel__items__content p {
+  margin-top: 10px;
+  color: #ff6060;
+  font-weight: 500;
+  font-size: 18px;
+}
+.carrousel .button {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+.carrousel .button i {
+  color: #ff6060;
+  margin: 24px;
+  font-size: 80px;
+  cursor: pointer;
+}
+@media all and (max-width: 768px) {
+  .carrousel .button i {
+    font-size: 24px;
+  }
+}
+.carrousel p {
+  text-align: center;
+}/*# sourceMappingURL=carrousel.css.map */

@@ -1,0 +1,30 @@
+.projectPage .projectPage__infoLink {
+  display: flex;
+  justify-content: space-between;
+}
+.projectPage .projectPage__infoLink__link {
+  margin-top: 20px;
+  margin-right: 40px;
+}
+.projectPage .projectPage__infoLink__link i {
+  font-size: 60px;
+}
+.projectPage .projectPage__infoLink .projectPage__info {
+  width: 70%;
+}
+@media all and (max-width: 768px) {
+  .projectPage .projectPage__infoLink {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  .projectPage .projectPage__infoLink__link {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto;
+    width: 250px;
+  }
+  .projectPage .projectPage__infoLink__position {
+    width: 100%;
+  }
+}/*# sourceMappingURL=detailsProject.css.map */

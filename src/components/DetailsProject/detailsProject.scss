@@ -1,0 +1,40 @@
+.projectPage {
+
+    .projectPage__infoLink {
+
+        display: flex;
+        justify-content: space-between;
+        
+        &__link {
+            margin-top: 20px;
+            margin-right: 40px;           
+        }
+        
+        &__link  i {
+            font-size: 60px;
+        }
+
+        .projectPage__info {
+            width: 70%;
+        }
+    }
+
+    @media all and (max-width: 768px) {
+        .projectPage__infoLink {
+            display: flex;
+            justify-content: space-between;
+            flex-direction: column;
+
+            &__link {
+            display: flex;
+            justify-content: space-between;
+            margin: 30px auto;
+            width: 250px;
+            }
+
+            &__position {
+                width: 100%;
+            }
+        }
+    }   
+}
