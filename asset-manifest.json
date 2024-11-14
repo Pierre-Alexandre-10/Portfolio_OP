@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Pierre-Alexandre-10/Portfolio_OP/static/css/main.24d71f41.css",
-    "main.js": "/Pierre-Alexandre-10/Portfolio_OP/static/js/main.8b023319.js",
+    "main.css": "/Pierre-Alexandre-10/Portfolio_OP/static/css/main.fcb7c573.css",
+    "main.js": "/Pierre-Alexandre-10/Portfolio_OP/static/js/main.72f57dbe.js",
     "static/media/PortfolioCV.jpg": "/Pierre-Alexandre-10/Portfolio_OP/static/media/PortfolioCV.eac8ba324a74fd388783.jpg",
     "static/media/bannerImg.jpg": "/Pierre-Alexandre-10/Portfolio_OP/static/media/bannerImg.7f7557b2bd1f1b32bbc0.jpg",
     "static/media/PortfolioCV.pdf": "/Pierre-Alexandre-10/Portfolio_OP/static/media/PortfolioCV.4b242c538cc6885f8ea7.pdf",
     "static/media/LogoBlack.png": "/Pierre-Alexandre-10/Portfolio_OP/static/media/LogoBlack.359d0e65c361e818bb12.png",
     "static/media/Logo.png": "/Pierre-Alexandre-10/Portfolio_OP/static/media/Logo.8c022b346ef9bd997295.png",
     "index.html": "/Pierre-Alexandre-10/Portfolio_OP/index.html",
-    "main.24d71f41.css.map": "/Pierre-Alexandre-10/Portfolio_OP/static/css/main.24d71f41.css.map",
-    "main.8b023319.js.map": "/Pierre-Alexandre-10/Portfolio_OP/static/js/main.8b023319.js.map"
+    "main.fcb7c573.css.map": "/Pierre-Alexandre-10/Portfolio_OP/static/css/main.fcb7c573.css.map",
+    "main.72f57dbe.js.map": "/Pierre-Alexandre-10/Portfolio_OP/static/js/main.72f57dbe.js.map"
   },
   "entrypoints": [
-    "static/css/main.24d71f41.css",
-    "static/js/main.8b023319.js"
+    "static/css/main.fcb7c573.css",
+    "static/js/main.72f57dbe.js"
   ]
 }
