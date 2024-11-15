@@ -14,5 +14,8 @@
 @import "../../../components/Objective/objective.css";
 @import "../../../components/Title/title.css";
 @import "../../../components/Text/text.css";
+@import "../../../components/Banner/banner.css";
 @import "../../../components/Image/image.css";
-@import "../../../components/Banner/banner.css";/*# sourceMappingURL=main.css.map */
+@import "../../../pages/Home/home.css";
+@import "../../../components/Contact/contact.css";
+@import "../../../components/NavHome/navHome.css";/*# sourceMappingURL=main.css.map */

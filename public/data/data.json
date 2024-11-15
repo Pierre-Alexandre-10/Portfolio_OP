@@ -60,7 +60,7 @@
 
     {
         "id": "4",
-        "title": "Ninna Carducci",
+        "title": "Nina Carducci",
         "cover": "/images/Nina_Carducci.jpg",
         "pictures": [
             "/images/Nina_Carducci2.png",
@@ -75,8 +75,8 @@
             "Suivre le déroulement du projet grâce à un outil de gestion de projet"      
         ],
         "tags": ["HTML","CSS" ,"SEO", "Google Rich Snippets", "Wave", "LightHouse", "GitHub"],
-        "github": "https://github.com/Pierre-Alexandre-10/Projet_SophieBluel_JS",
-        "page": "https://pierre-alexandre-10.github.io/Projet_SophieBluel_JS/"
+        "github": "https://github.com/Pierre-Alexandre-10/Nina-Carducci",
+        "page": "https://pierre-alexandre-10.github.io/Nina-Carducci/"
     },
 
     {

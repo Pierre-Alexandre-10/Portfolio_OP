@@ -6,10 +6,6 @@
         color: black;
     }
 
-    a:hover {
-        text-decoration: underline;
-    }
-
     .header__nav__about {
         margin-left: 57px;
     }
@@ -29,10 +25,6 @@
     }
 }
 
-.contact, .gallery__scroll, .competence {
+.contact, .gallery__scroll {
     cursor: pointer;
-}
-
-.contact, .competence {
-    margin-left: 30px;
 }

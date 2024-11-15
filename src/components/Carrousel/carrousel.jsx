@@ -26,7 +26,11 @@ function Carrousel({ filter }) {
                 <div className="carrousel__items">
                     {hasPictures ? (
                         <div className="carrousel__items__content">
-                            <img src={filter.pictures[currentIndex]} alt={currentIndex} />
+                            {/* <img src={filter.pictures[currentIndex]} alt={currentIndex} /> */}
+                            <img
+                                src={`${process.env.PUBLIC_URL}${filter.pictures[currentIndex]}`}
+                                alt={currentIndex}
+                            />
                             <div className="carrousel__items__content__counter">
                                 <p>
                                     {hasPictures && filter.pictures.length > 1 && (

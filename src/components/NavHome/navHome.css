@@ -4,9 +4,6 @@
   font-weight: 500;
   color: black;
 }
-.header__nav a:hover {
-  text-decoration: underline;
-}
 .header__nav .header__nav__about {
   margin-left: 57px;
 }
@@ -22,10 +19,6 @@
   }
 }
 
-.contact, .gallery__scroll, .competence {
+.contact, .gallery__scroll {
   cursor: pointer;
-}
-
-.contact, .competence {
-  margin-left: 30px;
-}/*# sourceMappingURL=nav.css.map */
+}/*# sourceMappingURL=navHome.css.map */

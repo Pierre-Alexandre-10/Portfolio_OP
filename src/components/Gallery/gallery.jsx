@@ -26,15 +26,19 @@ function Gallery() {
     }, []);
 
     return (
-        <div>
+        <div id="gallery__scroll">
             <h2 className="gallery__title">Projet</h2>
             <div className="gallery">
                 <div className="gallery__card">
                     {projectData.map((project) => {
+                        const imagePath = `${process.env.PUBLIC_URL}${project.cover}`;
                         return (
                             <article key={project.id}>
-                                <Link to={`/description/${project.id}`}>
+                                {/* <Link to={`/description/${project.id}`}>
                                     <Card image={project.cover} title={project.title}></Card>
+                                </Link> */}
+                                <Link to={`/description/${project.id}`}>
+                                    <Card image={imagePath} title={project.title}></Card>
                                 </Link>
                             </article>
                         );

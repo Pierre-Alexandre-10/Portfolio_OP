@@ -71,7 +71,7 @@ function DetailsProject() {
                                     window.open(filteredItem.github, "_blank", "noopener,noreferrer");
                                 }}
                             >
-                                <i class="fa-brands fa-github"></i>
+                                <i className="fa-brands fa-github"></i>
                                 <p>GitHub</p>
                             </Link>
                             <Link

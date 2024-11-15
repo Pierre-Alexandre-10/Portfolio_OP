@@ -17,7 +17,7 @@ function ProgressBar() {
     ];
 
     return (
-            <div className="progressBar__all">
+            <div id='competence' className="progressBar__all">
                 <h2 className="progressBar__title">Compétences</h2>
                 <div className='progressBar__block'>
                     <div className="progressBar__left">
