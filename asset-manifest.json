@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Pierre-Alexandre-10/Portfolio_OP/static/css/main.0cc386d2.css",
-    "main.js": "/Pierre-Alexandre-10/Portfolio_OP/static/js/main.23d27614.js",
-    "static/media/PortfolioCV.jpg": "/Pierre-Alexandre-10/Portfolio_OP/static/media/PortfolioCV.eac8ba324a74fd388783.jpg",
-    "static/media/PortfolioCV.pdf": "/Pierre-Alexandre-10/Portfolio_OP/static/media/PortfolioCV.4b242c538cc6885f8ea7.pdf",
-    "static/media/LogoBlack.png": "/Pierre-Alexandre-10/Portfolio_OP/static/media/LogoBlack.359d0e65c361e818bb12.png",
-    "static/media/Logo.png": "/Pierre-Alexandre-10/Portfolio_OP/static/media/Logo.8c022b346ef9bd997295.png",
-    "index.html": "/Pierre-Alexandre-10/Portfolio_OP/index.html",
-    "main.0cc386d2.css.map": "/Pierre-Alexandre-10/Portfolio_OP/static/css/main.0cc386d2.css.map",
-    "main.23d27614.js.map": "/Pierre-Alexandre-10/Portfolio_OP/static/js/main.23d27614.js.map"
+    "main.css": "/Portfolio_OP/static/css/main.0cc386d2.css",
+    "main.js": "/Portfolio_OP/static/js/main.4d7cfb9c.js",
+    "static/media/PortfolioCV.jpg": "/Portfolio_OP/static/media/PortfolioCV.eac8ba324a74fd388783.jpg",
+    "static/media/PortfolioCV.pdf": "/Portfolio_OP/static/media/PortfolioCV.4b242c538cc6885f8ea7.pdf",
+    "static/media/LogoBlack.png": "/Portfolio_OP/static/media/LogoBlack.359d0e65c361e818bb12.png",
+    "static/media/Logo.png": "/Portfolio_OP/static/media/Logo.8c022b346ef9bd997295.png",
+    "index.html": "/Portfolio_OP/index.html",
+    "main.0cc386d2.css.map": "/Portfolio_OP/static/css/main.0cc386d2.css.map",
+    "main.4d7cfb9c.js.map": "/Portfolio_OP/static/js/main.4d7cfb9c.js.map"
   },
   "entrypoints": [
     "static/css/main.0cc386d2.css",
-    "static/js/main.23d27614.js"
+    "static/js/main.4d7cfb9c.js"
   ]
 }
